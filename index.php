@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1> AMOS </h1>
+<h1> AMOS - Syntel </h1>
   
 <h2> Atos Managed OpenShift </h2>
 
