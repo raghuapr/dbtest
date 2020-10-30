@@ -4,7 +4,7 @@
 
 <h1> AMOS </h1>
   
-<h1> Hello this is Raghavendra AP Working in ATOS </h1>
+<h1> Hello this is Raghavendra AP </h1>
 
 <h1> Welcome to OpenShift Version3.11 !! </h1>
 
