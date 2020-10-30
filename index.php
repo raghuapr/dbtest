@@ -6,6 +6,8 @@
   
 <h2> Atos Managed OpenShift </h2>
 
+<h2> Shared Platform DevOps, Tools and Processes </h2>
+
 <h2> Welcome to OpenShift Version 4.5 !! </h2>
 
 <h2> This is only for testing purpose </h2>
